@@ -10,11 +10,9 @@
 - [Python, HTML/CSS, Machine Learning]
 
 ## Current Projects
-- [Project name](link) — short description
+- Coming soon… (I'll be adding my first projects here as I learn)
 
 ## How to Reach Me
 - Email: [dollagraceambwaya@gmail.com]
 - LinkedIn: [www.linkedin.com/in/
 dolla-grace-b4021a1b4]
-Add my profile README
-
